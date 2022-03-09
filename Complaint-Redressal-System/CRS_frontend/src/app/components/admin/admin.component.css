@@ -1,0 +1,18 @@
+.btn{
+    background-color: rgb(73, 73, 247);
+    border-color: rgb(73, 73, 247);
+    font-size: large; 
+    font-weight: bold;
+}
+
+.table{
+    align-items: center;
+    width: 30rem;
+    font-weight: normal;
+    font-size: large;
+    text-align: center;
+}
+
+.col-lg-7{
+    text-align: center;
+}

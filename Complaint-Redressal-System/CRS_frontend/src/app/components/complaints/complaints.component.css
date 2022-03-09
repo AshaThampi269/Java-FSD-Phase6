@@ -1,0 +1,12 @@
+.myform{
+    font-weight: bold; 
+    font-size: large
+}
+
+.container{
+    align-items: center;
+    width: 30rem;
+    font-weight: normal;
+    font-size: large;
+    text-align: center;
+}
